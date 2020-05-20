@@ -7,7 +7,6 @@ Golang https://golang.org/doc/install
 Создайте Svelte проект и добавьте в него файлы из svltprj  
 Для запуска сайта:  
 Перейдите в консоли в папку egor, пропишите go run main.go  
-Перейдите в проект Svelte, пропишите npm run dev  
-Изначально порты Svelte: 5000, go: 8080  
-Возможно у вас будут другие порты, их можно поменять в main.go(прописать handlers под новый порт Svelte) и app.svelte(переменная api) в самом начале <script>  
+Перейдите в проект Svelte, пропишите npm run dev
+Заходите на localhost:5000
 По вопросам пишите telegram: egor_bocharov  
